@@ -22,3 +22,13 @@
    ```bash
    git clone https://github.com/Johkri93/Whatmovie2watch.git
    cd Whatmovie2watch
+
+## Konfiguration av API-nyckel
+
+För att kunna köra applikationen behöver du skapa en `appsetting.json`-fil och lägga in din API-nyckel.
+
+1. Ändra namnet på `appsetting.json.example` till `appsetting.json`:
+   ```bash
+   cp appsetting.json.example appsetting.json
+
+2. Lägg till din egna api nyckel i appsetting.json inom " "
