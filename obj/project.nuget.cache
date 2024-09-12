@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D2hY/LzfW5n7xTVuhKu+1ibXd5rhxKSMvJsJn1iaUHnDiq3Z2I1RmN40mI4D6+fUmoFpGzffm7bKn7tActHgxQ==",
+  "success": true,
+  "projectFilePath": "/home/jklab/Dokument/cloudkurs/Whatmovie2watch/Whatmovie2watch.csproj",
+  "expectedPackageFiles": [
+    "/home/jklab/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

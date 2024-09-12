@@ -1,0 +1,17 @@
+/home/jklab/Dokument/cloudkurs/Whatmovie2watch/obj/Debug/net7.0/Whatmovie2watch.csproj.AssemblyReference.cache
+/home/jklab/Dokument/cloudkurs/Whatmovie2watch/obj/Debug/net7.0/Whatmovie2watch.GeneratedMSBuildEditorConfig.editorconfig
+/home/jklab/Dokument/cloudkurs/Whatmovie2watch/obj/Debug/net7.0/Whatmovie2watch.AssemblyInfoInputs.cache
+/home/jklab/Dokument/cloudkurs/Whatmovie2watch/obj/Debug/net7.0/Whatmovie2watch.AssemblyInfo.cs
+/home/jklab/Dokument/cloudkurs/Whatmovie2watch/obj/Debug/net7.0/Whatmovie2watch.csproj.CoreCompileInputs.cache
+/home/jklab/Dokument/cloudkurs/Whatmovie2watch/bin/Debug/net7.0/Whatmovie2watch
+/home/jklab/Dokument/cloudkurs/Whatmovie2watch/bin/Debug/net7.0/Whatmovie2watch.deps.json
+/home/jklab/Dokument/cloudkurs/Whatmovie2watch/bin/Debug/net7.0/Whatmovie2watch.runtimeconfig.json
+/home/jklab/Dokument/cloudkurs/Whatmovie2watch/bin/Debug/net7.0/Whatmovie2watch.dll
+/home/jklab/Dokument/cloudkurs/Whatmovie2watch/bin/Debug/net7.0/Whatmovie2watch.pdb
+/home/jklab/Dokument/cloudkurs/Whatmovie2watch/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/jklab/Dokument/cloudkurs/Whatmovie2watch/obj/Debug/net7.0/Whatmovie2watch.csproj.CopyComplete
+/home/jklab/Dokument/cloudkurs/Whatmovie2watch/obj/Debug/net7.0/Whatmovie2watch.dll
+/home/jklab/Dokument/cloudkurs/Whatmovie2watch/obj/Debug/net7.0/refint/Whatmovie2watch.dll
+/home/jklab/Dokument/cloudkurs/Whatmovie2watch/obj/Debug/net7.0/Whatmovie2watch.pdb
+/home/jklab/Dokument/cloudkurs/Whatmovie2watch/obj/Debug/net7.0/Whatmovie2watch.genruntimeconfig.cache
+/home/jklab/Dokument/cloudkurs/Whatmovie2watch/obj/Debug/net7.0/ref/Whatmovie2watch.dll
