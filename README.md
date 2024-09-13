@@ -22,23 +22,3 @@
    ```bash
    git clone https://github.com/Johkri93/Whatmovie2watch.git
    cd Whatmovie2watch
-
-+-----------------------------------------------------+
-|                       Whatmovie2watch               |
-| +-------------------------------------------------+ |
-| |                  Movieapp/                      | |
-| | +---------------------------------------------+ | |
-| | |              Program.cs                     | | |
-| | |  - Main program logic                       | | |
-| | +---------------------------------------------+ | |
-| | +---------------------------------------------+ | |
-| | |            MovieApiService.cs               | | |
-| | |  - Handles communication with TMDb API      | | |
-| | +---------------------------------------------+ | |
-| +-------------------------------------------------+ |
-+-----------------------------------------------------+
-| appsetting.json  - Stores TMDb API key              |
-| Whatmovie2watch.csproj - Project configuration file |
-| Whatmovie2watch.sln - Solution file                 |
-+-----------------------------------------------------+
-
